@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Camiseta Nike Clásica",
+    "description": "Camiseta deportiva de algodón",
+    "price": 29.99,
+    "image": "https://media2.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/r/e/remera-nike-essential-mujer-blanca-510020fd4149100-1.jpg"
+  },
+  {
+    "name": "Zapatillas Nike Air Max 720",
+    "description": "Zapatillas cómodas y modernas",
+    "price": 89.99,
+    "image": "https://essential.vtexassets.com/arquivos/ids/1495947/316-0979_1.jpg?v=638785161998330000"
+  },
+  {
+    "name": "Buzo Puma Essentials",
+    "description": "Buzo con capucha y bolsillos",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFI9xlP7u-Z7h58pTUa3_5HYScgMwfpa9zzQ&s"
+  },
+  {
+    "name": "Pantalón Jogger Reebok",
+    "description": "Estilo urbano y cómodo",
+    "price": 39.99,
+    "image": "https://factorydeportivoar.vteximg.com.br/arquivos/ids/193133-1400-1400/41228004002_0.jpg?v=638593748576570000"
+  },
+  {
+    "name": "Short Nike Dri-FIT",
+    "description": "Short para entrenamiento",
+    "price": 24.99,
+    "image": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw4ec4a636/products/NI_AJ9994-010/NI_AJ9994-010-1.JPG"
+  },
+  {
+    "name": "Campera Columbia Outdoor",
+    "description": "Ideal para climas fríos",
+    "price": 99.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuYa5z2kiQ8Z9K9yEfpczDqkNsLOlRJj22A&s"
+  },
+  {
+    "name": "Zapatillas Vans Old Skool",
+    "description": "Diseño clásico de skate",
+    "price": 64.99,
+    "image": "https://cero26.vtexassets.com/arquivos/ids/19022310/VN0009QC6BT-A.jpg?v=638525072581000000"
+  },
+  {
+    "name": "Remera Jordan Logo",
+    "description": "Remera de algodón con logo Jumpman",
+    "price": 34.99,
+    "image": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw6f58b50a/products/NIDV8414-010/NIDV8414-010-1.JPG"
+  },
+  {
+    "name": "Zapatillas Converse Chuck Taylor",
+    "description": "Clásico diseño atemporal",
+    "price": 54.99,
+    "image": "https://mateuarg.vtexassets.com/arquivos/ids/413816-800-auto?v=638397899803000000&width=800&height=auto&aspect=true"
+  },
+  {
+    "name": "Camisa Levi's Slim Fit",
+    "description": "Camisa casual de jean",
+    "price": 44.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_G5UJI5AMHf12CdN2N3pgp4uCJYZpPcwTA&s"
+  },
+  {
+    "name": "Buzo ZARA Hoodie",
+    "description": "Buzo Hoodie ZARA blanco.",
+    "price": 69.99,
+    "image": "https://static.zara.net/assets/public/33be/8e5c/f1d54e40b133/5329e6b4f2c0/04393350251-e1/04393350251-e1.jpg?ts=1739197190724"
+  }
+]
+
+
+
+

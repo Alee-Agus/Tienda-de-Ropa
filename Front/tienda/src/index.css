@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .header-nav {
+    flex-direction: column;
+  }
+  .shop-main {
+    flex-direction: column;
+  }
+  .sidebar {
+    order: 2;
+  }
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
